@@ -1,7 +1,7 @@
 # Library Management System - Flask Web Application with SQLite
 
-![Tests](https://github.com/username/repo-name/actions/workflows/tests.yml/badge.svg)
-[![codecov](https://codecov.io/gh/username/repo-name/branch/main/graph/badge.svg)](https://codecov.io/gh/username/repo-name)
+![Tests](https://github.com/anwardr/CISC327-CMPE327-F25/actions/workflows/tests.yml/badge.svg)
+[![codecov](https://codecov.io/gh/anwardr/CISC327-CMPE327-F25/branch/main/graph/badge.svg)](https://codecov.io/gh/anwardr/CISC327-CMPE327-F25)
 
 ## Overview
 
